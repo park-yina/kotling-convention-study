@@ -1,9 +1,9 @@
 # 코틀린 컨벤션 스터디
 
 ## 1.Day1: 1일차-디렉터리 구조, 소스파일 이름,멀티 플랫폼 프로젝트
-[1일차 레포 바로가기](https://github.com/park-yina/kotling-convention-study/blob/main/Day1.md)
+[1일차 md 바로가기](https://github.com/park-yina/kotling-convention-study/blob/main/Day1.md)
 ## 2.Day2: 2일차-클래스 레이아웃에 관하여
-[2일차 레포 바로가기](https://github.com/park-yina/kotling-convention-study/blob/main/Day2.md)
+[2일차 md 바로가기](https://github.com/park-yina/kotling-convention-study/blob/main/Day2.md)
 <br>
 ### 1일차 요약
 <br>
